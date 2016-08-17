@@ -1,8 +1,7 @@
 # python-scripts
 
 1) TidyUp.py - This script moves the files in a folder to new folders based on their extension. Example:
-               Suppose a folder 'example' consists of the following files - file1.txt, file2.txt, file3.txt, file4.py, file5.py, file6.py,
-               file7.py, file8.mp3, file9.mp3.
+               Suppose a folder 'example' consists of the following files - file1.txt, file2.txt, file3.txt, file4.py, file5.py, file6.py, file7.py, file8.mp3, file9.mp3.
                
                Running the script in this folder will result in the creation of three new folders, txt, py and mp3, inisde
                the example folder. The files will be moved inside the respective folders.
